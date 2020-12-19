@@ -2,13 +2,12 @@
 <h1 align="center">Hi 👋, I'm Vignesh M ..aka DV</h1>
 
 I'm a final year student pursuing Bachelors's in Computer Science 💻 from Calicut University 🏛. I love to explore new technologies and love to share my knowledge though my
-<a href="https://www.youtube.com/c/dvtechchats" target="blank"><img align="center" height="15" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg/1200px-YouTube_play_buttom_icon_%282013-2017%29.svg.png" alt="dvtechchats" height="25" width="35" /></a> channel.
-To be honest I'm more a hardware guy than a coder but now I started loving coding. So now I'm currently into Web Development 🕸️ and working on my <img align="center" alt="Django" height="28" width="28" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" /> Project🤓.
+<a href="https://www.youtube.com/c/dvtechchats" target="blank"><img align="center" height="15" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg/1200px-YouTube_play_buttom_icon_%282013-2017%29.svg.png" alt="dvtechchats" height="16" width="26" /></a> channel. To be honest I'm more a hardware guy than a coder but now I started loving coding. So now I'm currently into Web Development 🕸️ and working on my <img align="center" alt="Django" height="34" width="34" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" /> Project🤓.
 
 
 ### Personal Stuffs:
 
-- 💻 I’m currently working on Django Project
+- 💻 I’m currently working on Django Ecommerce Project
 - 🌱 I’m currently learning Django
 - 👯 I'm looking to collaborate on Youtube.
 - ⚡ Fun fact: ... I'm a Ryzen fanboy but I still use my 8 year old Intel Pentium loptop😂
