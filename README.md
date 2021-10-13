@@ -10,7 +10,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 💻 from Cali
 - 💻 I’m currently working on Django Ecommerce Project
 - 🌱 I’m currently learning Django
 - 👯 I'm looking to collaborate on Youtube.
-- ⚡ Fun fact: ... I'm a Ryzen fanboy but I still use my 8 year old Intel Pentium laptop😂
+- ⚡ Fun fact: ... I'm a Ryzen fanboy but I still use my 9 year old Intel Pentium laptop😂
 
 
 ### Connect with me:
