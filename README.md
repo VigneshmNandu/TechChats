@@ -10,7 +10,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 💻 from Cali
 - 💻 I’m currently working on Django Ecommerce Project
 - 🌱 I’m currently learning Django
 - 👯 I'm looking to collaborate on Youtube.
-- ⚡ Fun fact: ... I'm a Ryzen fanboy but I still use my 9 year old Intel Pentium laptop😂
 
 
 ### Connect with me:
@@ -46,8 +45,8 @@ I'm a final year student pursuing Bachelors's in Computer Science 💻 from Cali
   <br />
   <summary><b>💻 Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04 | Windows 10</li>
-	    <li><b>Laptop: </b> Acer Aspire (Pentium)</li>
+  	    <li><b>OS:</b> Ubuntu 20.04 | Windows 11</li>
+	    <li><b>Laptop: </b> Acer Nitro</li>
   	    <li><b>Browser: </b> Google Chome</li>
 	    <li><b>Code Editor:</b> VSCode - My fav editor</li>
 	    <li><b>To Stay Updated:</b> Youtube</li>
