@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vignesh M ..aka DV</h1>
+<h1 align="center">Hi 👋, I'm Vignesh M</h1>
 
 I'm a final year student pursuing Bachelors's in Computer Science 💻 from Calicut University 🏛. I love to explore new technologies and love to share my knowledge though my
 <a href="https://www.youtube.com/c/dvtechchats" target="blank"><img align="center" height="15" width="24" src="https://www.flaticon.com/svg/vstatic/svg/48/48968.svg?token=exp=1618911283~hmac=24fb5c8dad837414ed8805af9840ea5b" height="16" width="26"/></a> channel. To be honest I'm more a hardware guy than a coder but now I started loving coding. So now I'm currently into Web Development 🕸️ and working on my <img align="center" alt="Django" height="34" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" /> Project🤓.
